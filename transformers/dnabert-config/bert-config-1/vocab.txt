@@ -1,0 +1,12 @@
+[PAD]
+[UNK]
+[CLS]
+[SEP]
+[MASK]
+A
+T
+C
+G
+M
+L
+N
