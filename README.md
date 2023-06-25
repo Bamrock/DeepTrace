@@ -1,5 +1,6 @@
 # DeepTrace
-Here we present the codes of DeepTrace:
+Here we present the codes of DeepTrace.
+
 This repository includes: source codes of pre-trainng, finetune and data samples. This package is still under development, as more features will be included gradually.
 
 ## Requirements and Setup
