@@ -100,7 +100,7 @@ Add --fp16 tag if you want to perfrom mixed precision. (You have to install the 
 
 ```
 
-python fine_tuning.py \
+python prediction.py \
     --model_name_or_path $MODEL_PATH \
     --task_name dnaprom \
     --do_predict \
