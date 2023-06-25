@@ -1,4 +1,4 @@
-# Pretraining read-level DNA sequences for early detection of hepatocellular carcinoma
+# Early detection of hepatocellular carcinoma via no end-repair enzymatic methylation sequencing of cell-free DNA and pre-trained neural network
 This repository includes: source codes of pre-trainng, finetune and data samples. This package is still under development, as more features will be included gradually.
 
 ## Requirements and Setup
